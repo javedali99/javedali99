@@ -1,8 +1,7 @@
 # Hi there 👋
 
 <!--
-**javedali99/javedali99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am a *Water Resources Engineer* and *Multi Hazards Risk Researcher*. I use statistical and machine learning approaches to study the hydrometeorological extreme events and population exposure and vulnerability for forecasting the potential socio-economic impacts of natural hazards. 
+**javedali99/javedali99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -15,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a :ocean: *Water Resources Engineer* and *Multi Hazards Risk Researcher*. I use :bar_chart:*Statistical* and :computer:*Machine Learning* approaches for studying the hydrometeorological extreme events and population exposure and vulnerability for forecasting the potential socio-economic impacts of natural hazards.
+
+---
+
+<p align="center">
+  <a href="http://javedali.net/" title="Personal Website" target="_blank">
+    <img alt="Javed Ali's Personal Website" src="https://i.dlpng.com/static/png/5510623-free-png-website-icons-konfest-web-png-1078_1078_preview.png" width="50" height="50" >
+  </a>
+  
+  <a href="https://www.linkedin.com/in/javedali18/" title="LinkedIn" target="_blank">
+  <img alt="Javed Ali on Linkedin" src="http://saad.ninja/img/temp/linkedin.png" width="50" height="50" >
+  </a>
+ 
+  <a href="https://twitter.com/javedali99" title="Twitter" target="_blank">
+    <img alt="Javed Ali on Twitter" src="http://saad.ninja/img/temp/twitter.png" width="50" height="50" >
+  </a>
+   </p>
