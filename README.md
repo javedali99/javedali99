@@ -2,6 +2,7 @@
 
 <!--
 **javedali99/javedali99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a *Water Resources Engineer* and *Multi Hazards Risk Researcher*. I use statistical and machine learning approaches to study the hydrometeorological extreme events and population exposure and vulnerability for forecasting the potential socio-economic impacts of natural hazards. 
 
 Here are some ideas to get you started:
 
