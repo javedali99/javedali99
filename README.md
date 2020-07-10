@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a :ocean: *Water Resources Engineer* and *Multi Hazards Risk Researcher*. My work focuses on studying hydro-meteorological extreme events and population exposure and vulnerability dynamics for forecasting the potential socio-economic impacts of natural hazards.
+I am a :ocean: *Water Resources Engineer* and *Multi Hazards Risk Researcher*. My work focuses on studying hydro-meteorological extreme events and population exposure and vulnerability dynamics for forecasting the potential socio-economic impacts of weather-related disasters.
 
 
 <p align="center">
