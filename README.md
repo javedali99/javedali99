@@ -3,7 +3,7 @@
    <h1>Hi there 👋</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
-  <img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10&count_private=true" />
+  <img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10&count_private=true&hide=scala" />
   
   📕 **Latest Blog Posts**
   
@@ -18,7 +18,6 @@
   <a href="https://javedali.net/"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contact@javedali"></a>
  
 </p>
-
 
 
 
