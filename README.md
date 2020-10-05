@@ -1,3 +1,33 @@
+
+   
+   <h1>Hi there 👋</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
+  <img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10&count_private=true" />
+  
+  📕 **Latest Blog Posts**
+  
+  <!-- BLOG:START -->
+- [R Resources for Hydrologists](https://www.javedali.net/post/r-resources-for-hydrologists/)
+- [Free Resources for Learning R Programming for Data Science](https://www.javedali.net/post/r-resources/)
+<!-- BLOG:END -->
+  
+ 
+  <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@javedali"></a>
+  <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@javedali"></a>
+  <a href="https://javedali.net/"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contact@javedali"></a>
+ 
+</p>
+
+
+
+
+
+
+
+
+
+
 <!--
 **javedali99/javedali99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 # Hi there 👋
@@ -31,31 +61,4 @@ I am a :ocean: *Water Resources Engineer* and *Multi Hazards Risk Researcher*. M
  <a href="https://www.hackerrank.com/javedali28"><img src="https://img.shields.io/badge/HackerRank--_.svg?style=social&logo=hackerrank" alt="HackerRank@javedali"></a>
 -->
 
-
-
-
-
- 
-   
-   
-   
-   
-   <h1>Hi there 👋</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&hide_title=true">
-  <img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10" />
-  
-  📕 **Latest Blog Posts**
-  
-  <!-- BLOG:START -->
-- [R Resources for Hydrologists](https://www.javedali.net/post/r-resources-for-hydrologists/)
-- [Free Resources for Learning R Programming for Data Science](https://www.javedali.net/post/r-resources/)
-<!-- BLOG:END -->
-  
- 
-  <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@javedali"></a>
-  <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@javedali"></a>
-  <a href="https://javedali.net/"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contact@adityatelange"></a>
- 
-</p>
 
