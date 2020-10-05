@@ -1,6 +1,9 @@
 
    
    <h1>Hi there 👋</h1>
+   
+ 
+   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
   <img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10&count_private=true&hide=scala" />
@@ -27,6 +30,8 @@
 
 
 
+
+
 <!--
 **javedali99/javedali99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 # Hi there 👋
@@ -42,6 +47,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 I am a :ocean: *Water Resources Engineer* and *Multi Hazards Risk Researcher*. My work focuses on studying hydro-meteorological extreme events and population exposure and vulnerability dynamics for forecasting the potential socio-economic impacts of weather-related disasters.
+
+
+  [![Website](https://img.shields.io/website?label=javedali.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://javedali.net)
+[![Twitter Follow](https://img.shields.io/twitter/follow/javedali99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=javedali99)
+
 
 <p align="center">
   <a href="http://javedali.net/" title="Personal Website" target="_blank">
