@@ -5,8 +5,8 @@
  
    
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
-  <img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10&count_private=true&hide=scala" />
+  <img src="https://github-readme-stats.javedali99.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
+  <img height="165"  src="https://github-readme-stats.javedali99.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10&count_private=true&hide=scala" />
   
   📕 **Latest Blog Posts**
   
@@ -19,6 +19,7 @@
   <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@javedali"></a>
   <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@javedali"></a>
   <a href="https://javedali.net/"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contact@javedali"></a>
+  
  
 </p>
 
