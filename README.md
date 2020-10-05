@@ -16,10 +16,9 @@
 <!-- BLOG:END -->
   
  
-  <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@javedali"></a>
-  <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@javedali"></a>
-  <a href="https://javedali.net/"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contact@javedali"></a>
-  
+  <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
+  <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
+ 
  
 </p>
 
@@ -52,7 +51,7 @@ I am a :ocean: *Water Resources Engineer* and *Multi Hazards Risk Researcher*. M
 
   [![Website](https://img.shields.io/website?label=javedali.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://javedali.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/javedali99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=javedali99)
-
+ <a href="https://javedali.net/"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contact@javedali"></a>
 
 <p align="center">
   <a href="http://javedali.net/" title="Personal Website" target="_blank">
