@@ -6,7 +6,7 @@
    
 <p align="center">
   <img src="https://github-readme-stats.javedali99.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
-  <img height="165"  src="https://github-readme-stats.javedali99.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10&count_private=true&hide=scala" />
+  <img height="165"  src="https://github-readme-stats.javedali99.vercel.app/api/top-langs/?username=javedali99&layout=compact&count_private=true&hide=scala&langs_count=8" />
   
   📕 **Latest Blog Posts**
   
@@ -19,10 +19,7 @@
   <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
   <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
  
- 
 </p>
-
-
 
 
 
@@ -48,6 +45,7 @@ Here are some ideas to get you started:
 
 I am a :ocean: *Water Resources Engineer* and *Multi Hazards Risk Researcher*. My work focuses on studying hydro-meteorological extreme events and population exposure and vulnerability dynamics for forecasting the potential socio-economic impacts of weather-related disasters.
 
+[![Visits](https://badges.pufler.dev/visits/javedali99/javedali99?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/javedali99)
 
   [![Website](https://img.shields.io/website?label=javedali.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://javedali.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/javedali99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=javedali99)
