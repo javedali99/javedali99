@@ -4,7 +4,7 @@
    
 <p align="center">
   <img src="https://github-readme-stats-peach-three.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
-  <img height="165"  src="https://github-readme-stats-peach-three.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=5&count_private=true&hide=scala" />
+  <img height="165"  src="https://github-readme-stats-peach-three.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10&count_private=true&hide=scala" />
   
  
  <p align="center">
