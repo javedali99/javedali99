@@ -1,7 +1,5 @@
 
-   
-   <h1>Hi there 👋</h1>
-   
+   <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Javed.</h1>
  
    
 <p align="center">
