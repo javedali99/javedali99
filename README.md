@@ -6,7 +6,7 @@
    
 <p align="center">
   <img src="https://github-readme-stats.javedali99.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
-  <img height="165"  src="https://github-readme-stats.javedali99.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=10&count_private=true&hide=scala" />
+  <img height="165"  src="https://github-readme-stats.javedali99.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=15&count_private=true&hide=scala" />
   
   📕 **Latest Blog Posts**
   
