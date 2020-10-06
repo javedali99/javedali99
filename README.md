@@ -3,8 +3,8 @@
  
    
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
-  <img height="165"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=9&hide=scala&count_private=true" />
+  <img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
+  <img height="165"  src="https://github-readme-stats-pasodl3pk.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=9&hide=scala&count_private=true" />
   
  
  <p align="center">
