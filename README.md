@@ -1,11 +1,6 @@
 
-   <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Javed.</h1>
+   <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
  
-   
-<p align="center">
-  
-  <img height="165"  src="https://github-readme-stats-pasodl3pk.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=9&hide=scala&count_private=true" />
-  
  
  <p align="center">
   <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
@@ -18,8 +13,10 @@
 </p>
 
 
+<!--- 
+<p align="center">
+<img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
 
+<img height="165"  src="https://github-readme-stats-pasodl3pk.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=9&hide=scala&count_private=true" />
 
-
-
-
+-->
