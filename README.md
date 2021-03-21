@@ -1,6 +1,15 @@
 
    <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
  
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%" /><br>
+I am a water resources engineer and multi-hazards researcher. I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) at the University of Central Florida (UCF). I’ve been working on a NAS funded project “The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure” for studying the multi-hazards risks including their possible spatial and temporal interactions and dynamic vulnerability and exposure.
+
+I am committed to seeking new and innovative ways to reduce hazard risks and increase community resilience. My work involves multi-hazards risk assessment and studying hydrometeorological extreme events using machine learning and statistical methods.
+
+<br>
+<br>
+
+## Where to find me
  
  <p align="center">
   <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
@@ -11,7 +20,6 @@
 
 
 </p>
-
 
 <!--- 
 <p align="center">
