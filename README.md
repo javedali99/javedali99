@@ -9,6 +9,10 @@ I am committed to seeking new and innovative ways to reduce hazard risks and inc
 <br>
 <br>
 
+<p align="center">
+<img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&count_private=true">
+<br>
+
 ## Where to find me
  
  <p align="center">
@@ -21,10 +25,6 @@ I am committed to seeking new and innovative ways to reduce hazard risks and inc
 
 </p>
 
-<br>
-
-
-<img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&count_private=true">
 
 <!--- 
 <p align="center">
