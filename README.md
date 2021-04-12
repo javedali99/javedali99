@@ -2,7 +2,7 @@
    <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
  
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%" /><br>
-I am a Water Resources Engineer and Multi-hazards Researcher. I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) at the [University of Central Florida (UCF)](https://www.ucf.edu/). I’m currently working on a National Academy of Sciences (NAS) funded project “The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure” for studying the multi-hazards risks including their possible spatial and temporal interactions and dynamic vulnerability and exposure.
+I am a Water Resources Engineer and Multi-hazards Researcher. I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) in the Coastal Risks and Engineering (CoRE) Research Lab at the [University of Central Florida (UCF)](https://www.ucf.edu/). I’m currently working on a National Academy of Sciences (NAS) funded project “The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure” for studying the multi-hazards risks including their possible spatial and temporal interactions and dynamic vulnerability and exposure.
 
 My work involves multi-hazards risk assessment and studying hydrometeorological extreme events and their interrelationships using machine learning and statistical methods.
 
