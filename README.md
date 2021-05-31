@@ -6,12 +6,6 @@ I am a Water Resources Engineer and Multi-hazards Researcher. I’m currently pu
 
 My work involves multi-hazards risk assessment and studying hydrometeorological extreme events and their interrelationships using machine learning and statistical methods.
 
-<br>
-<br>
-
-<img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&count_private=true">
-
-<br>
 
 ## Where to find me
  
@@ -26,6 +20,12 @@ My work involves multi-hazards risk assessment and studying hydrometeorological 
 
 
 <!--- 
+<br>
+
+<img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&count_private=true">
+
+<br>
+
 <p align="center">
 <img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
 
