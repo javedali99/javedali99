@@ -10,6 +10,7 @@ My work involves multi-hazards risk assessment and studying hydrometeorological 
 <br>
 
 <img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&count_private=true">
+
 <br>
 
 ## Where to find me
@@ -20,7 +21,6 @@ My work involves multi-hazards risk assessment and studying hydrometeorological 
   <a href="mailto:javedali28@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="javedali28@gmail.com"></a>
  <a href="https://javedali.net"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="LinkedIn@javedali"></a>
 </p>
-
 
 </p>
 
