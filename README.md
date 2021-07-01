@@ -20,12 +20,12 @@ My work involves multi-hazards risk analysis and studying hydrometeorological ex
 
 </p>
 
-
 <!---
 <br>
 
 ![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&count_private=true) 
 
+![Javed's Most Used Laguage](https://github-readme-stats.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=6&hide=scala&count_private=true) 
 <br>
 
 <img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&count_private=true">
