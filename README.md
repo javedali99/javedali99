@@ -23,13 +23,13 @@ My work involves multi-hazards risk analysis and studying hydrometeorological ex
 
 <br>
 
-![Metrics](https://metrics.lecoq.io/javedali99?template=classic&commits.authoring=javedali28%40gmail.com&base.metadata=0&isocalendar=1&achievements=1&notable=1&tweets=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=all&notable.repositories=false&tweets.attachments=false&tweets.limit=2&tweets.user=javedali99&config.timezone=America%2FNew_York)
-
 
 
 <!---
 <br>
-![Metrics](https://metrics.lecoq.io/javedali99?template=classic&commits.authoring=javedali28%40gmail.com&base.header=0&base.metadata=0&isocalendar=1&achievements=1&tweets=1&notable=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=all&notable.repositories=false&tweets.attachments=true&tweets.limit=2&tweets.user=javedali99&config.timezone=America%2FNew_York)
+
+![Metrics](https://metrics.lecoq.io/javedali99?template=classic&commits.authoring=javedali28%40gmail.com&base.metadata=0&isocalendar=1&achievements=1&notable=1&tweets=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=all&notable.repositories=false&tweets.attachments=false&tweets.limit=2&tweets.user=javedali99&config.timezone=America%2FNew_York)
+
 
 ![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&count_private=true) 
 
