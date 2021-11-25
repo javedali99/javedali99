@@ -24,8 +24,15 @@ My work involves multi-hazards risk analysis and studying hydrometeorological ex
 <br>
 
 
+
 <!---
 <br>
+
+# Feedback gif
+<h3 align="center">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
+
+# GitHUb stats in different color
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Javed's Github Stats" width="450px"> 
 
 # calender of activity
 ![Metrics](https://metrics.lecoq.io/javedali99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FNew_York)
