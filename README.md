@@ -24,7 +24,6 @@ My work involves multi-hazards risk analysis and studying hydrometeorological ex
 <br>
 
 
-
 <!---
 <br>
 
@@ -47,6 +46,8 @@ My work involves multi-hazards risk analysis and studying hydrometeorological ex
 
 <img height="165"  src="https://github-readme-stats-pasodl3pk.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=9&hide=scala&count_private=true" />
 
+# Profile view
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javedali99" alt="javedali99" /> </p>
 
 ![Metrics](https://metrics.lecoq.io/javedali99?template=classic&base.metadata=0&languages=1&achievements=1&pagespeed=1&tweets=1&languages.ignored=Scala&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=https%3A%2F%2Fjavedali.net%2F&pagespeed.detailed=false&pagespeed.screenshot=true&tweets.attachments=true&tweets.limit=2&tweets.user=javedali99&config.timezone=America%2FNew_York)
 
