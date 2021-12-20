@@ -28,6 +28,10 @@ My work involves multi-hazards risk analysis and studying hydrometeorological ex
 <!---
 <br>
 
+#
+![GitHub Javed](https://img.shields.io/github/followers/javedali99?style=social) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=javedali99.javedali99)
+
 # Feedback gif
 <h3 align="center">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
 
