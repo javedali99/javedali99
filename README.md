@@ -2,9 +2,9 @@
    <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
  
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%" /><br>
-I am a Water Resources Engineer and Multi-hazards Researcher. I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) in the [Coastal Risks and Engineering (CoRE) Research Lab](https://core-lab.weebly.com/) at the [University of Central Florida (UCF)](https://www.ucf.edu/). I’m working on a National Academy of Sciences (NAS) funded project “The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure” for studying the multi-hazards risks including their possible spatial and temporal interactions and dynamic vulnerability and exposure.
+I am a Water Resources Engineer and Multi-hazards Researcher. I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) in the [Coastal Risks and Engineering (CoRE) Research Lab](https://core-lab.weebly.com/) at the [University of Central Florida (UCF)](https://www.ucf.edu/). 
 
-My work involves multi-hazards risk analysis and studying compound climate/weather extreme events and their interrelationships using machine learning and statistical methods.
+My research involves multi-hazards risk analysis and studying compound climate/weather extreme events and their spatial and temporal interactions using machine learning and statistical methods.
 
 <br>
 
@@ -43,6 +43,9 @@ My work involves multi-hazards risk analysis and studying compound climate/weath
 
 # all information
 ![Metrics](https://metrics.lecoq.io/javedali99?template=classic&commits.authoring=javedali28%40gmail.com&base.metadata=0&isocalendar=1&achievements=1&notable=1&tweets=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=all&notable.repositories=false&tweets.attachments=false&tweets.limit=2&tweets.user=javedali99&config.timezone=America%2FNew_York)
+
+
+I’m working on a National Academy of Sciences (NAS) funded project “The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure” for studying the multi-hazards risks including their possible spatial and temporal interactions and dynamic vulnerability and exposure.
 
 
 ![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&count_private=true) 
