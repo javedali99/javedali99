@@ -9,9 +9,7 @@ My research involves multi-hazards risk analysis and studying compound climate/w
 <br>
 
 
-<!---
-## Where to find me
--->
+
  <p align="left">
   <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
   <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
@@ -23,48 +21,6 @@ My research involves multi-hazards risk analysis and studying compound climate/w
 
 <br>
 
+![classic-flower-medow](https://user-images.githubusercontent.com/15319503/153984316-99e47aa9-3a1e-40bc-a4b1-e9d277da3816.png)
 
-
-<!---
-<br>
-
-#
-![GitHub Javed](https://img.shields.io/github/followers/javedali99?style=social) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=javedali99.javedali99)
-
-# Feedback gif
-<h3 align="center">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
-
-# GitHUb stats in different color
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Javed's Github Stats" width="450px"> 
-
-# calender of activity
-![Metrics](https://metrics.lecoq.io/javedali99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FNew_York)
-
-# all information
-![Metrics](https://metrics.lecoq.io/javedali99?template=classic&commits.authoring=javedali28%40gmail.com&base.metadata=0&isocalendar=1&achievements=1&notable=1&tweets=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=all&notable.repositories=false&tweets.attachments=false&tweets.limit=2&tweets.user=javedali99&config.timezone=America%2FNew_York)
-
-
-I’m working on a National Academy of Sciences (NAS) funded project “The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure” for studying the multi-hazards risks including their possible spatial and temporal interactions and dynamic vulnerability and exposure.
-
-
-![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=javedali99&show_icons=true&count_private=true) 
-
-![Javed's Most Used Laguage](https://github-readme-stats.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=6&hide=scala&count_private=true) 
-<br>
-
-<img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&count_private=true">
-
-<p align="center">
-<img src="https://github-readme-stats-pasodl3pk.vercel.app/api?username=javedali99&show_icons=true&hide_title=true&count_private=true">
-
-<img height="165"  src="https://github-readme-stats-pasodl3pk.vercel.app/api/top-langs/?username=javedali99&layout=compact&langs_count=9&hide=scala&count_private=true" />
-
-# Profile view
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javedali99" alt="javedali99" /> </p>
-
-![Metrics](https://metrics.lecoq.io/javedali99?template=classic&base.metadata=0&languages=1&achievements=1&pagespeed=1&tweets=1&languages.ignored=Scala&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=https%3A%2F%2Fjavedali.net%2F&pagespeed.detailed=false&pagespeed.screenshot=true&tweets.attachments=true&tweets.limit=2&tweets.user=javedali99&config.timezone=America%2FNew_York)
-
-
--->
 
