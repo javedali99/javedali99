@@ -1,16 +1,8 @@
-
-   <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
- 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%" /><br>
-I am a Water Resources Engineer and Multi-hazards Researcher. I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) in the [Coastal Risks and Engineering (CoRE) Research Lab](https://core-lab.weebly.com/) at the [National Center for Integrated Coastal Research](https://coastal.ucf.edu/), University of Central Florida (UCF). 
-
-My work involves multi-hazards risk analysis and studying compound climate/weather extreme events and their spatial and temporal interactions and socio-economic impacts using machine learning and statistical methods. 
-
-👨‍🔬 I am open to collaborate on any multi-hazards and weather/climate extremes related research.
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 
 
-<h3 align="left">:mailbox: How to reach me</h3>
- <p align="left">
+<h3 align="center">:mailbox: How to reach me</h3>
+ <p align="center">
   <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
   <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
   <a href="mailto:javedali28@gmail.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="javedali28@gmail.com"></a>
