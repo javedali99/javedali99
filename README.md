@@ -2,9 +2,8 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-I am a Water Resources Engineer and Multi-hazards Researcher. I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) in the [Coastal Risks and Engineering (CoRE) Research Lab](https://core-lab.weebly.com/) at the [National Center for Integrated Coastal Research](https://coastal.ucf.edu/), University of Central Florida (UCF).
-
-My work involves multi-hazards risk analysis and studying compound climate/weather extreme events and their spatial and temporal interactions and socio-economic impacts using machine learning and statistical methods.
+>I am a Water Resources Engineer and Multi-hazards Researcher. I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) in the [Coastal Risks and Engineering (CoRE) Research Lab](https://core-lab.weebly.com/) at the [National Center for Integrated Coastal Research](https://coastal.ucf.edu/), University of Central Florida (UCF).
+>My work involves multi-hazards risk analysis and studying compound climate/weather extreme events and their spatial and temporal interactions and socio-economic impacts using machine learning and statistical methods.
 
 
 👨‍🔬 I am open to collaborate on any multi-hazards and weather/climate extremes related research. 
