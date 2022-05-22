@@ -11,23 +11,6 @@ My work involves multi-hazards risk analysis and studying compound climate/weath
 
 
 
-Life
-----
-
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
-
-:shipit: [**Free Software Foundation**][fsf] Student Associate Member  
-:shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
-:shipit: [**UR CSUG**][csug] tutoring chair  
-:shipit: [**DandyHacks**][dandyhacks] 2022 organizer  
-:shipit: [**42tm**][42tm] founder & free software engineer
-
-[fsf]:  https://fsf.org
-[ur]: https://rochester.edu
-[csug]: https://ur-csug.org
-[dandyhacks]: https://dandyhacks.net
-[42tm]: https://github.com/42tm
-
 
 
 <h3 align="left">:mailbox: How to reach me:</h3>
