@@ -1,7 +1,7 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h1 align="left">Hi there!</h1>
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%"/><br>
 >I am a Water Resources Engineer and Multi-hazards Researcher. I’m currently pursuing a PhD in Civil Engineering (Major: Water Resources Engineering) in the [Coastal Risks and Engineering (CoRE) Research Lab](https://core-lab.weebly.com/) at the [National Center for Integrated Coastal Research](https://coastal.ucf.edu/), University of Central Florida (UCF).
 >My work involves multi-hazards risk analysis and studying compound climate/weather extreme events and their spatial and temporal interactions and socio-economic impacts using machine learning and statistical methods.
 
@@ -24,3 +24,6 @@
 ![classic-flower-medow](https://user-images.githubusercontent.com/15319503/153984316-99e47aa9-3a1e-40bc-a4b1-e9d277da3816.png)
 
 
+<!--
+
+-->
