@@ -8,7 +8,6 @@
 👨‍🔬 I am open to collaborate on any multi-hazards or weather/climate extremes related research. 
 
 
-
 <h3 align="left">:mailbox: How to reach me:</h3>
  <p align="left">
   <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
