@@ -5,7 +5,7 @@
 >My work involves multi-hazards risk assessment and analyzing compound climate/weather extreme events and their spatial and temporal interactions and socio-economic impacts using machine learning and statistical methods. 
 
 
-👨‍🔬 I am open to collaborate on any multi-hazards or weather/climate extremes related research. 
+
 
 
 <h3 align="left">:mailbox: How to reach me:</h3>
@@ -25,5 +25,5 @@
 
 <!--
 
-
+👨‍🔬 I am open to collaborate on any multi-hazards or weather/climate extremes related research. 
 -->
