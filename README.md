@@ -5,7 +5,6 @@
 >My work involves multi-hazards risk assessment and analyzing compound climate/weather extreme events and their spatial and temporal interactions and socio-economic impacts using machine learning and statistical methods. 
 
 
-
 <h3 align="left">:mailbox: How to reach me:</h3>
  <p align="left">
  <a href="https://javedali.net"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="LinkedIn@javedali"></a>
