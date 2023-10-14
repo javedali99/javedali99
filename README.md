@@ -28,5 +28,5 @@
 
 <!--
 
-👨‍🔬 I am open to collaborate on any multi-hazards or weather/climate extremes related research. 
+👨‍🔬 I am open to collaborating on any multi-hazards or weather/climate extremes related research. 
 -->
