@@ -15,7 +15,7 @@
  <a href="https://fediscience.org/@javedali"><img src="https://img.shields.io/badge/mastodon-%231DA1F2.svg?&style=for-the-badge&logo=mastodon&logoColor=white&color=purple" alt="mastodon@javedali"></a>
   <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
   <a href="mailto:javedali28@gmail.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="javedali28@gmail.com"></a>
- <p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
+ 
 </p>
 
 
@@ -33,4 +33,6 @@
 <!--
 
 👨‍🔬 I am open to collaborating on any multi-hazards or weather/climate extremes related research. 
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
 -->
