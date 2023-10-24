@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&width=610&lines=Javed+Ali;Researcher+%7C+PhD+Candidate+%7C+Climate+Data+Scientist)](https://git.io/typing-svg)
@@ -18,13 +17,15 @@
   <a href="mailto:javedali28@gmail.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="javedali28@gmail.com"></a>
  
 </p>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
+
 <br>
 
 
 
 ![classic-flower-medow](https://user-images.githubusercontent.com/15319503/153984316-99e47aa9-3a1e-40bc-a4b1-e9d277da3816.png)
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
 
 
 
