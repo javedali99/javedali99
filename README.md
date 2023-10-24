@@ -14,11 +14,11 @@
  <a href="https://fediscience.org/@javedali"><img src="https://img.shields.io/badge/mastodon-%231DA1F2.svg?&style=for-the-badge&logo=mastodon&logoColor=white&color=purple" alt="mastodon@javedali"></a>
   <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
   <a href="mailto:javedali28@gmail.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="javedali28@gmail.com"></a>
- 
+ <p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
 </p>
 <br>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
+
 
 ![classic-flower-medow](https://user-images.githubusercontent.com/15319503/153984316-99e47aa9-3a1e-40bc-a4b1-e9d277da3816.png)
 
