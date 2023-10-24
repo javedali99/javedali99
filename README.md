@@ -16,9 +16,9 @@
   <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
   <a href="mailto:javedali28@gmail.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="javedali28@gmail.com"></a>
  
-</p>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p></p>
 
 <br>
 
