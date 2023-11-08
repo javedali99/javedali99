@@ -1,9 +1,5 @@
 
-
 <h1 align="left">Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /></h1>
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&width=610&lines=Javed+Ali;Researcher+%7C+PhD+Candidate+%7C+Climate+Data+Scientist)](https://git.io/typing-svg)
 
