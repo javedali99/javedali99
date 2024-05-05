@@ -29,7 +29,7 @@
 
 <!--
 
-👨‍🔬 I am open to collaborating on any multi-hazards or weather/climate extremes related research. 
+👨‍🔬 I am open to collaborating on any multi-hazards or weather/climate extremes-related research. 
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=javedali99&style=flat-square"></p>
 -->
