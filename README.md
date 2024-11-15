@@ -11,9 +11,9 @@
 <h3 align="left">:mailbox: How to reach me:</h3>
  <p align="left">
  <a href="https://javedali.net"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="LinkedIn@javedali"></a>
-  <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" alt="Twitter@javedali"></a>
   <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
   <a href="https://bsky.app/profile/javedali.bsky.social"><img src="https://img.shields.io/badge/bluesky-%231007B5.svg?&style=for-the-badge&logo=Bluesky&logoColor=white" alt="BlueSky@javedali"></a>
+  <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" alt="Twitter@javedali"></a>
   <a href="https://fediscience.org/@javedali"><img src="https://img.shields.io/badge/mastodon-%231DA1F2.svg?&style=for-the-badge&logo=mastodon&logoColor=white&color=purple" alt="mastodon@javedali"></a>
   <a href="mailto:javedali28@gmail.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="javedali28@gmail.com"></a>
  
