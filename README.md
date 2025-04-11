@@ -50,12 +50,20 @@
 
 
 
+
+
+
+
+
+
+
+
 <!--
 
 
 <h1 align="left">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&width=810&height=55&lines=Javed+Ali;Experienced+Water+Resources+Engineer+%7C+Climate+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&width=810&height=55&lines=Javed+Ali;Experienced+Water+Resources+Engineer+%7C+Climate+Data+Scientist+%7C+PhD+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%"/>
 
@@ -91,7 +99,7 @@ I apply advanced skills in **hydrologic, hydrodynamic, and hydraulic modeling** 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="15" height="15"/> Git, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="15" height="15"/> GitHub, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="15" height="15"/> VS Code, 
-    Google Colab, 
+    <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/> Google Colab, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="15" height="15"/> Jupyter, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="15" height="15"/> Anaconda, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="15" height="15"/> RStudio<br>
@@ -116,7 +124,6 @@ I apply advanced skills in **hydrologic, hydrodynamic, and hydraulic modeling** 
 <br>
 
 ![Classic Flower Meadow Divider](https://user-images.githubusercontent.com/15319503/153984316-99e47aa9-3a1e-40bc-a4b1-e9d277da3816.png)
-
 
 
 
