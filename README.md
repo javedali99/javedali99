@@ -4,8 +4,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%"/>
 
->I am a Water Resources Engineer and a Researcher in Multi-hazards and Compound Climate & Weather Extremes. I’m a Ph.D. Candidate in Civil Engineering (Major: Water Resources Engineering) in the [Coastal Risks and Engineering (CoRE) Research Lab](https://core-lab.weebly.com/) at the [National Center for Integrated Coastal Research](https://coastal.ucf.edu/), University of Central Florida ([UCF](https://www.ucf.edu/)).
->My work involves multi-hazards risk assessment and analyzing compound climate/weather extreme events and their spatial and temporal interactions and socio-economic impacts using machine learning, statistical, and impact-based methods.
+>I am a Water Resources Engineer and a Researcher in Multi-hazards and Compound Climate & Weather Extremes. I’ve recently completed a Ph.D. in Civil Engineering (Major: Water Resources Engineering) in the [Coastal Risks and Engineering (CoRE) Research Lab](https://core-lab.weebly.com/) at the University of Central Florida ([UCF](https://www.ucf.edu/)).
+>My doctoral research work focused on multi-hazards risk assessment and analyzing compound climate/weather extreme events and their spatial and temporal interactions and socio-economic impacts using machine learning, statistical, and impact-based methods.
 
 
 <h3 align="left">:mailbox: How to reach me:</h3>
