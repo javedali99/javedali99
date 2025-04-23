@@ -7,7 +7,7 @@
 
 > I'm a Water Resources Engineer and Climate Data Scientist passionate about solving intricate water and environmental challenges. I recently completed my **Ph.D. in Civil Engineering (Water Resources Engineering)** from the **University of Central Florida ([UCF](https://www.ucf.edu/))**, where my research focused on understanding the interactions of climate and weather extremes and their socioeconomic impacts and associated drivers. By integrating hydrologic and hydraulic modeling, geospatial analysis, numerical modeling, and advanced data-driven techniques, I develop sustainable solutions for building resilient water systems and communities.
 >
-> 🌍 My background spans academic, research, and consulting experience across the U.S., Europe, and South Asia — collaborating with organizations like **NOAA**, **AGU**, **CNRS**, **Hazen and Sawyer**, **Climate-KIC**, **WMO**, and the **World Bank**.
+> 🌍 My background spans academic, research, and consulting experience across the U.S., Europe, and South Asia — collaborating with organizations like **NOAA**, **Hazen and Sawyer**, **AGU**, **USGS**, **SFWMD**, **CNRS**, **EIT Climate-KIC**, **WMO**, and the **World Bank**.
 > 
 > 🔬 I’m passionate about combining science, engineering, and technology to advance community-centered climate resilience and sustainable water systems.
 
