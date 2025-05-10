@@ -1,11 +1,15 @@
 <h1 align="left">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /></h1>
 
+![linkedin banner - Javy_final3 copy](https://github.com/user-attachments/assets/5de887b6-dad4-41a3-b93e-440f407f0b6a)
+
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&width=810&height=55&lines=Javed+Ali;Water+Resources+Engineer+%7C+Climate+Data+Scientist)](https://git.io/typing-svg)
+-->
 
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%"/>
 
 
-> I'm a Water Resources Engineer and Climate Data Scientist passionate about solving intricate water and environmental challenges. I recently completed my **Ph.D. in Civil Engineering (Water Resources Engineering)** from the **University of Central Florida ([UCF](https://www.ucf.edu/))**, where my research focused on understanding the interactions of climate and weather extremes and their socioeconomic impacts and associated drivers. By integrating hydrologic and hydraulic modeling, geospatial analysis, numerical modeling, and advanced data-driven techniques, I develop sustainable solutions for building resilient water systems and communities.
+> I'm a Water Resources Engineer and Climate Data Scientist passionate about solving intricate water and environmental challenges. I have a **Ph.D. in Civil Engineering (Water Resources Engineering)** from the **University of Central Florida ([UCF](https://www.ucf.edu/))**, where my research focused on understanding the interactions of climate and weather extremes and their socioeconomic impacts and associated drivers. By integrating hydrologic and hydraulic modeling, geospatial analysis, numerical modeling, and advanced data-driven techniques, I develop sustainable solutions for building resilient water systems and communities.
 >
 > 🌍 My background spans academic, research, and consulting experience across the U.S., Europe, and South Asia — collaborating with organizations like **NOAA**, **Hazen and Sawyer**, **AGU**, **USGS**, **SFWMD**, **CNRS**, **EIT Climate-KIC**, **WMO**, and the **World Bank**.
 > 
