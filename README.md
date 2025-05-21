@@ -22,7 +22,7 @@
 > 🌍 My background spans academic, research, and consulting experience across the U.S., Europe, and South Asia — collaborating with organizations like **NOAA**, **Hazen and Sawyer**, **AGU**, **USGS**, **SFWMD**, **CNRS**, **EIT Climate-KIC**, **WMO**, and the **World Bank**.
 -->
 
-<br>
+
 
 ---
 
