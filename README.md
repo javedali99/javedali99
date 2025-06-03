@@ -20,7 +20,7 @@
 
 <!--
 > 🌍 My background spans academic, research, and consulting experience across the U.S., Europe, and South Asia — collaborating with organizations like **NOAA**, **Hazen and Sawyer**, **AGU**, **USGS**, **SFWMD**, **CNRS**, **EIT Climate-KIC**, **WMO**, and the **World Bank**.
--->
+
 
 
 
@@ -46,15 +46,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="15" height="15"/> Anaconda, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="15" height="15"/> RStudio,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="15" height="15"/> PyCharm<br>
-  <!--
+  
   &emsp;<b>Modeling & GIS:</b> ArcGIS Pro, QGIS, WebGIS, DHI MIKE Suite, HEC-RAS, HEC-HMS, MODFLOW, SWMM, ICPR4, GeoClaw, CDO, LISFLOOD<br>
-  -->
+ 
   &emsp;<b>OS:</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="15" height="15"/> Windows, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS" width="15" height="15"/> MacOS, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="15" height="15"/> Linux<br>
   &emsp;<b>Data Science:</b> 🤖 Machine Learning, 📈 Statistical Modeling, 📊 Data Analysis & Visualization
 </p>
 
 ---
 
+-->
 
 <h3 align="left">:mailbox: Connect with me:</h3>
 <!-- <p align="left">
